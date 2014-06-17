@@ -16,8 +16,8 @@ class Actions_IndexController extends System_Controller_Action {
 
         if( ($this->_hasParam('page')&&$this->_getParam('page')==0)
             ||!$this->_hasParam('page')
-            ||(($this->_hasParam('page')&&$this->_getParam('page')>1) && ($this->deals->getDealsPagesCount($this->lang_id, 1)<=1 ))
-            ||($this->_getParam('page')>1&&$this->deals->getDealsPagesCount($this->lang_id, 1)<$this->_getParam('page'))
+            ||(($this->_hasParam('page')&&$this->_getParam('page')>1) && ($this->deals->getDealsPagesCount(1,0,$this->lang_id)<=1 ))
+            ||($this->_getParam('page')>1&&$this->deals->getDealsPagesCount(1,0,$this->lang_id)<$this->_getParam('page'))
         ){
 
             $this->_redirect("/actions/page/1");
@@ -30,7 +30,7 @@ class Actions_IndexController extends System_Controller_Action {
         $this->smarty->assign('meta_keywords', "Акции");
         $this->smarty->assign('meta_description', "Акции");
         $this->smarty->assign('page_num', $page+1);
-        $this->smarty->assign('page_count', $this->deals->getDealsPagesCount($this->lang_id, 1));
+        $this->smarty->assign('page_count', $this->deals->getDealsPagesCount(1,0,$this->lang_id));
         $this->smarty->assign('PageBody', 'actions/show_items.tpl');
         $this->smarty->display('layouts/sub.tpl');
     }
