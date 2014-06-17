@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<configuration>
+    <database>
+        <type>Pdo_Mysql</type>
+        <host>localhost</host>
+        <username>root</username>
+        <password></password>
+        <name>bk</name>
+    </database>
+</configuration>

@@ -1,0 +1,20 @@
+.theme-default #slider {
+    margin:0px auto 0 auto;
+    width:639px; /* Make sure your images are the same size */
+    height:223px; /* Make sure your images are the same size */
+}
+.theme-pascal.slider-wrapper,
+.theme-orman.slider-wrapper {
+    margin-top:20px;
+}
+.nivo-controlNav{
+    display:block;
+    position: absolute;
+}
+
+/*====================*/
+/*=== Other Styles ===*/
+/*====================*/
+.clear {
+	clear:both;
+}

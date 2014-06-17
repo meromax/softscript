@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<configuration>
+    <listings>
+        <links_number>10</links_number>
+        <items_per_page>10</items_per_page>
+    </listings>
+</configuration>

@@ -1,0 +1,246 @@
+<tr><td><p>ABW</p></td><td><p>AW</p></td><td><p>Аруба</p></td></tr>
+<tr><td><p>AFG</p></td><td><p>AF</p></td><td><p>Афганистан</p></td></tr>
+<tr><td><p>AGO</p></td><td><p>AO</p></td><td><p>Ангола</p></td></tr>
+<tr><td><p>AIA</p></td><td><p>AI</p></td><td><p>Ангилья</p></td></tr>
+<tr><td><p>ALA</p></td><td><p>AX</p></td><td><p>Эландские острова</p></td></tr>
+<tr><td><p>ALB</p></td><td><p>AL</p></td><td><p>Албания</p></td></tr>
+<tr><td><p>AND</p></td><td><p>AD</p></td><td><p>Андорра</p></td></tr>
+<tr><td><p>ANT</p></td><td><p>AN</p></td><td><p>Нидерландские Антилы</p></td></tr>
+<tr><td><p>ARE</p></td><td><p>AE</p></td><td><p>Объединенные Арабские Эмираты</p></td></tr>
+<tr><td><p>ARG</p></td><td><p>AR</p></td><td><p>Аргентина</p></td></tr>
+<tr><td><p>ARM</p></td><td><p>AM</p></td><td><p>Армения</p></td></tr>
+<tr><td><p>ASM</p></td><td><p>AS</p></td><td><p>Американское Самоа</p></td></tr>
+<tr><td><p>ATA</p></td><td><p>AQ</p></td><td><p>Антарктида</p></td></tr>
+<tr><td><p>ATF</p></td><td><p>TF</p></td><td><p>Французские Южные территории</p></td></tr>
+<tr><td><p>ATG</p></td><td><p>AG</p></td><td><p>Антигуа и Барбуда</p></td></tr>
+<tr><td><p>AUS</p></td><td><p>AU</p></td><td><p>Австралия</p></td></tr>
+<tr><td><p>AUT</p></td><td><p>AT</p></td><td><p>Австрия</p></td></tr>
+<tr><td><p>AZE</p></td><td><p>AZ</p></td><td><p>Азербайджан</p></td></tr>
+<tr><td><p>BDI</p></td><td><p>BI</p></td><td><p>Бурунди</p></td></tr>
+<tr><td><p>BEL</p></td><td><p>BE</p></td><td><p>Бельгия</p></td></tr>
+<tr><td><p>BEN</p></td><td><p>BJ</p></td><td><p>Бенин</p></td></tr>
+<tr><td><p>BFA</p></td><td><p>BF</p></td><td><p>Буркина-Фасо</p></td></tr>
+<tr><td><p>BGD</p></td><td><p>BD</p></td><td><p>Бангладеш</p></td></tr>
+<tr><td><p>BGR</p></td><td><p>BG</p></td><td><p>Болгария</p></td></tr>
+<tr><td><p>BHR</p></td><td><p>BH</p></td><td><p>Бахрейн</p></td></tr>
+<tr><td><p>BHS</p></td><td><p>BS</p></td><td><p>Багамы</p></td></tr>
+<tr><td><p>BIH</p></td><td><p>BA</p></td><td><p>Босния и Герцеговина</p></td></tr>
+<tr><td><p>BLM</p></td><td><p>BL</p></td><td><p>Сен-Бартельми</p></td></tr>
+<tr><td><p>BLR</p></td><td><p>BY</p></td><td><p>Беларусь</p></td></tr>
+<tr><td><p>BLZ</p></td><td><p>BZ</p></td><td><p>Белиз</p></td></tr>
+<tr><td><p>BMU</p></td><td><p>BM</p></td><td><p>Бермуды</p></td></tr>
+<tr><td><p>BOL</p></td><td><p>BO</p></td><td><p>Боливия</p></td></tr>
+<tr><td><p>BRA</p></td><td><p>BR</p></td><td><p>Бразилия</p></td></tr>
+<tr><td><p>BRB</p></td><td><p>BB</p></td><td><p>Барбадос</p></td></tr>
+<tr><td><p>BRN</p></td><td><p>BN</p></td><td><p>Бруней-Даруссалам</p></td></tr>
+<tr><td><p>BTN</p></td><td><p>BT</p></td><td><p>Бутан</p></td></tr>
+<tr><td><p>BVT</p></td><td><p>BV</p></td><td><p>Остров Буве</p></td></tr>
+<tr><td><p>BWA</p></td><td><p>BW</p></td><td><p>Ботсвана</p></td></tr>
+<tr><td><p>CAF</p></td><td><p>CF</p></td><td><p>Центрально-Африканская Республика</p></td></tr>
+<tr><td><p>CAN</p></td><td><p>CA</p></td><td><p>Канада</p></td></tr>
+<tr><td><p>CCK</p></td><td><p>CC</p></td><td><p>Кокосовые (Килинг) острова</p></td></tr>
+<tr><td><p>CHE</p></td><td><p>CH</p></td><td><p>Швейцария</p></td></tr>
+<tr><td><p>CHL</p></td><td><p>CL</p></td><td><p>Чили</p></td></tr>
+<tr><td><p>CHN</p></td><td><p>CN</p></td><td><p>Китай</p></td></tr>
+<tr><td><p>CIV</p></td><td><p>CI</p></td><td><p>Кот д'Ивуар</p></td></tr>
+<tr><td><p>CMR</p></td><td><p>CM</p></td><td><p>Камерун</p></td></tr>
+<tr><td><p>COD</p></td><td><p>CD</p></td><td><p>Конго, Демократическая Республика</p></td></tr>
+<tr><td><p>COG</p></td><td><p>CG</p></td><td><p>Конго</p></td></tr>
+<tr><td><p>COK</p></td><td><p>CK</p></td><td><p>Острова Кука</p></td></tr>
+<tr><td><p>COL</p></td><td><p>CO</p></td><td><p>Колумбия</p></td></tr>
+<tr><td><p>COM</p></td><td><p>KM</p></td><td><p>Коморы</p></td></tr>
+<tr><td><p>CPV</p></td><td><p>CV</p></td><td><p>Кабо-Верде</p></td></tr>
+<tr><td><p>CRI</p></td><td><p>CR</p></td><td><p>Коста-Рика</p></td></tr>
+<tr><td><p>CUB</p></td><td><p>CU</p></td><td><p>Куба</p></td></tr>
+<tr><td><p>CXR</p></td><td><p>CX</p></td><td><p>Остров Рождества</p></td></tr>
+<tr><td><p>CYM</p></td><td><p>KY</p></td><td><p>Острова Кайман</p></td></tr>
+<tr><td><p>CYP</p></td><td><p>CY</p></td><td><p>Кипр</p></td></tr>
+<tr><td><p>CZE</p></td><td><p>CZ</p></td><td><p>Чешская Республика</p></td></tr>
+<tr><td><p>DEU</p></td><td><p>DE</p></td><td><p>Германия</p></td></tr>
+<tr><td><p>DJI</p></td><td><p>DJ</p></td><td><p>Джибути</p></td></tr>
+<tr><td><p>DMA</p></td><td><p>DM</p></td><td><p>Доминика</p></td></tr>
+<tr><td><p>DNK</p></td><td><p>DK</p></td><td><p>Дания</p></td></tr>
+<tr><td><p>DOM</p></td><td><p>DO</p></td><td><p>Доминиканская Республика</p></td></tr>
+<tr><td><p>DZA</p></td><td><p>DZ</p></td><td><p>Алжир</p></td></tr>
+<tr><td><p>ECU</p></td><td><p>EC</p></td><td><p>Эквадор</p></td></tr>
+<tr><td><p>EGY</p></td><td><p>EG</p></td><td><p>Египет</p></td></tr>
+<tr><td><p>ERI</p></td><td><p>ER</p></td><td><p>Эритрея</p></td></tr>
+<tr><td><p>ESH</p></td><td><p>EH</p></td><td><p>Западная Сахара</p></td></tr>
+<tr><td><p>ESP</p></td><td><p>ES</p></td><td><p>Испания</p></td></tr>
+<tr><td><p>EST</p></td><td><p>EE</p></td><td><p>Эстония</p></td></tr>
+<tr><td><p>ETH</p></td><td><p>ET</p></td><td><p>Эфиопия</p></td></tr>
+<tr><td><p>FIN</p></td><td><p>FI</p></td><td><p>Финляндия</p></td></tr>
+<tr><td><p>FJI</p></td><td><p>FJ</p></td><td><p>Фиджи</p></td></tr>
+<tr><td><p>FLK</p></td><td><p>FK</p></td><td><p>Фолклендские острова (Мальвинские)</p></td></tr>
+<tr><td><p>FRA</p></td><td><p>FR</p></td><td><p>Франция</p></td></tr>
+<tr><td><p>FRO</p></td><td><p>FO</p></td><td><p>Фарерские острова</p></td></tr>
+<tr><td><p>FSM</p></td><td><p>FM</p></td><td><p>Микронезия, Федеративные Штаты</p></td></tr>
+<tr><td><p>GAB</p></td><td><p>GA</p></td><td><p>Габон</p></td></tr>
+<tr><td><p>GBR</p></td><td><p>GB</p></td><td><p>Соединенное Королевство</p></td></tr>
+<tr><td><p>GEO</p></td><td><p>GE</p></td><td><p>Грузия</p></td></tr>
+<tr><td><p>GGY</p></td><td><p>GG</p></td><td><p>Гернси</p></td></tr>
+<tr><td><p>GHA</p></td><td><p>GH</p></td><td><p>Гана</p></td></tr>
+<tr><td><p>GIB</p></td><td><p>GI</p></td><td><p>Гибралтар</p></td></tr>
+<tr><td><p>GIN</p></td><td><p>GN</p></td><td><p>Гвинея</p></td></tr>
+<tr><td><p>GLP</p></td><td><p>GP</p></td><td><p>Гваделупа</p></td></tr>
+<tr><td><p>GMB</p></td><td><p>GM</p></td><td><p>Гамбия</p></td></tr>
+<tr><td><p>GNB</p></td><td><p>GW</p></td><td><p>Гвинея-Бисау</p></td></tr>
+<tr><td><p>GNQ</p></td><td><p>GQ</p></td><td><p>Экваториальная Гвинея</p></td></tr>
+<tr><td><p>GRC</p></td><td><p>GR</p></td><td><p>Греция</p></td></tr>
+<tr><td><p>GRD</p></td><td><p>GD</p></td><td><p>Гренада</p></td></tr>
+<tr><td><p>GRL</p></td><td><p>GL</p></td><td><p>Гренландия</p></td></tr>
+<tr><td><p>GTM</p></td><td><p>GT</p></td><td><p>Гватемала</p></td></tr>
+<tr><td><p>GUF</p></td><td><p>GF</p></td><td><p>Французская Гвиана</p></td></tr>
+<tr><td><p>GUM</p></td><td><p>GU</p></td><td><p>Гуам</p></td></tr>
+<tr><td><p>GUY</p></td><td><p>GY</p></td><td><p>Гайана</p></td></tr>
+<tr><td><p>HKG</p></td><td><p>HK</p></td><td><p>Гонконг</p></td></tr>
+<tr><td><p>HMD</p></td><td><p>HM</p></td><td><p>Остров Херд и острова Макдональд</p></td></tr>
+<tr><td><p>HND</p></td><td><p>HN</p></td><td><p>Гондурас</p></td></tr>
+<tr><td><p>HRV</p></td><td><p>HR</p></td><td><p>Хорватия</p></td></tr>
+<tr><td><p>HTI</p></td><td><p>HT</p></td><td><p>Гаити</p></td></tr>
+<tr><td><p>HUN</p></td><td><p>HU</p></td><td><p>Венгрия</p></td></tr>
+<tr><td><p>IDN</p></td><td><p>ID</p></td><td><p>Индонезия</p></td></tr>
+<tr><td><p>IMN</p></td><td><p>IM</p></td><td><p>Остров Мэн</p></td></tr>
+<tr><td><p>IND</p></td><td><p>IN</p></td><td><p>Индия</p></td></tr>
+<tr><td><p>IOT</p></td><td><p>IO</p></td><td><p>Британская территория в Индийском океане</p></td></tr>
+<tr><td><p>IRL</p></td><td><p>IE</p></td><td><p>Ирландия</p></td></tr>
+<tr><td><p>IRN</p></td><td><p>IR</p></td><td><p>Иран, Исламская Республика</p></td></tr>
+<tr><td><p>IRQ</p></td><td><p>IQ</p></td><td><p>Ирак</p></td></tr>
+<tr><td><p>ISL</p></td><td><p>IS</p></td><td><p>Исландия</p></td></tr>
+<tr><td><p>ISR</p></td><td><p>IL</p></td><td><p>Израиль</p></td></tr>
+<tr><td><p>ITA</p></td><td><p>IT</p></td><td><p>Италия</p></td></tr>
+<tr><td><p>JAM</p></td><td><p>JM</p></td><td><p>Ямайка</p></td></tr>
+<tr><td><p>JEY</p></td><td><p>JE</p></td><td><p>Джерси</p></td></tr>
+<tr><td><p>JOR</p></td><td><p>JO</p></td><td><p>Иордания</p></td></tr>
+<tr><td><p>JPN</p></td><td><p>JP</p></td><td><p>Япония</p></td></tr>
+<tr><td><p>KAZ</p></td><td><p>KZ</p></td><td><p>Казахстан</p></td></tr>
+<tr><td><p>KEN</p></td><td><p>KE</p></td><td><p>Кения</p></td></tr>
+<tr><td><p>KGZ</p></td><td><p>KG</p></td><td><p>Киргизия</p></td></tr>
+<tr><td><p>KHM</p></td><td><p>KH</p></td><td><p>Камбоджа</p></td></tr>
+<tr><td><p>KIR</p></td><td><p>KI</p></td><td><p>Кирибати</p></td></tr>
+<tr><td><p>KNA</p></td><td><p>KN</p></td><td><p>Сент-Китс и Невис</p></td></tr>
+<tr><td><p>KOR</p></td><td><p>KR</p></td><td><p>Южная Корея</p></td></tr>
+<tr><td><p>KWT</p></td><td><p>KW</p></td><td><p>Кувейт</p></td></tr>
+<tr><td><p>LAO</p></td><td><p>LA</p></td><td><p>Лаос</p></td></tr>
+<tr><td><p>LBN</p></td><td><p>LB</p></td><td><p>Ливан</p></td></tr>
+<tr><td><p>LBR</p></td><td><p>LR</p></td><td><p>Либерия</p></td></tr>
+<tr><td><p>LBY</p></td><td><p>LY</p></td><td><p>Ливийская Арабская Джамахирия</p></td></tr>
+<tr><td><p>LCA</p></td><td><p>LC</p></td><td><p>Сент-Люсия</p></td></tr>
+<tr><td><p>LIE</p></td><td><p>LI</p></td><td><p>Лихтенштейн</p></td></tr>
+<tr><td><p>LKA</p></td><td><p>LK</p></td><td><p>Шри-Ланка</p></td></tr>
+<tr><td><p>LSO</p></td><td><p>LS</p></td><td><p>Лесото</p></td></tr>
+<tr><td><p>LTU</p></td><td><p>LT</p></td><td><p>Литва</p></td></tr>
+<tr><td><p>LUX</p></td><td><p>LU</p></td><td><p>Люксембург</p></td></tr>
+<tr><td><p>LVA</p></td><td><p>LV</p></td><td><p>Латвия</p></td></tr>
+<tr><td><p>MAC</p></td><td><p>MO</p></td><td><p>Макао</p></td></tr>
+<tr><td><p>MAF</p></td><td><p>MF</p></td><td><p>Остров Святого Мартина</p></td></tr>
+<tr><td><p>MAR</p></td><td><p>MA</p></td><td><p>Марокко</p></td></tr>
+<tr><td><p>MCO</p></td><td><p>MC</p></td><td><p>Монако</p></td></tr>
+<tr><td><p>MDA</p></td><td><p>MD</p></td><td><p>Молдова, Республика</p></td></tr>
+<tr><td><p>MDG</p></td><td><p>MG</p></td><td><p>Мадагаскар</p></td></tr>
+<tr><td><p>MDV</p></td><td><p>MV</p></td><td><p>Мальдивы</p></td></tr>
+<tr><td><p>MEX</p></td><td><p>MX</p></td><td><p>Мексика</p></td></tr>
+<tr><td><p>MHL</p></td><td><p>MH</p></td><td><p>Маршалловы острова</p></td></tr>
+<tr><td><p>MKD</p></td><td><p>MK</p></td><td><p>Республика Македония</p></td></tr>
+<tr><td><p>MLI</p></td><td><p>ML</p></td><td><p>Мали</p></td></tr>
+<tr><td><p>MLT</p></td><td><p>MT</p></td><td><p>Мальта</p></td></tr>
+<tr><td><p>MMR</p></td><td><p>MM</p></td><td><p>Мьянма</p></td></tr>
+<tr><td><p>MNE</p></td><td><p>ME</p></td><td><p>Черногория</p></td></tr>
+<tr><td><p>MNG</p></td><td><p>MN</p></td><td><p>Монголия</p></td></tr>
+<tr><td><p>MNP</p></td><td><p>MP</p></td><td><p>Северные Марианские острова</p></td></tr>
+<tr><td><p>MOZ</p></td><td><p>MZ</p></td><td><p>Мозамбик</p></td></tr>
+<tr><td><p>MRT</p></td><td><p>MR</p></td><td><p>Мавритания</p></td></tr>
+<tr><td><p>MSR</p></td><td><p>MS</p></td><td><p>Монтсеррат</p></td></tr>
+<tr><td><p>MTQ</p></td><td><p>MQ</p></td><td><p>Мартиника</p></td></tr>
+<tr><td><p>MUS</p></td><td><p>MU</p></td><td><p>Маврикий</p></td></tr>
+<tr><td><p>MWI</p></td><td><p>MW</p></td><td><p>Малави</p></td></tr>
+<tr><td><p>MYS</p></td><td><p>MY</p></td><td><p>Малайзия</p></td></tr>
+<tr><td><p>MYT</p></td><td><p>YT</p></td><td><p>Майотта</p></td></tr>
+<tr><td><p>NAM</p></td><td><p>NA</p></td><td><p>Намибия</p></td></tr>
+<tr><td><p>NCL</p></td><td><p>NC</p></td><td><p>Новая Каледония</p></td></tr>
+<tr><td><p>NER</p></td><td><p>NE</p></td><td><p>Нигер</p></td></tr>
+<tr><td><p>NFK</p></td><td><p>NF</p></td><td><p>Остров Норфолк</p></td></tr>
+<tr><td><p>NGA</p></td><td><p>NG</p></td><td><p>Нигерия</p></td></tr>
+<tr><td><p>NIC</p></td><td><p>NI</p></td><td><p>Никарагуа</p></td></tr>
+<tr><td><p>NIU</p></td><td><p>NU</p></td><td><p>Ниуэ</p></td></tr>
+<tr><td><p>NLD</p></td><td><p>NL</p></td><td><p>Нидерланды</p></td></tr>
+<tr><td><p>NOR</p></td><td><p>NO</p></td><td><p>Норвегия</p></td></tr>
+<tr><td><p>NPL</p></td><td><p>NP</p></td><td><p>Непал</p></td></tr>
+<tr><td><p>NRU</p></td><td><p>NR</p></td><td><p>Науру</p></td></tr>
+<tr><td><p>NZL</p></td><td><p>NZ</p></td><td><p>Новая Зеландия</p></td></tr>
+<tr><td><p>OMN</p></td><td><p>OM</p></td><td><p>Оман</p></td></tr>
+<tr><td><p>PAK</p></td><td><p>PK</p></td><td><p>Пакистан</p></td></tr>
+<tr><td><p>PAN</p></td><td><p>PA</p></td><td><p>Панама</p></td></tr>
+<tr><td><p>PCN</p></td><td><p>PN</p></td><td><p>Питкерн</p></td></tr>
+<tr><td><p>PER</p></td><td><p>PE</p></td><td><p>Перу</p></td></tr>
+<tr><td><p>PHL</p></td><td><p>PH</p></td><td><p>Филиппины</p></td></tr>
+<tr><td><p>PLW</p></td><td><p>PW</p></td><td><p>Палау</p></td></tr>
+<tr><td><p>PNG</p></td><td><p>PG</p></td><td><p>Папуа-Новая Гвинея</p></td></tr>
+<tr><td><p>POL</p></td><td><p>PL</p></td><td><p>Польша</p></td></tr>
+<tr><td><p>PRI</p></td><td><p>PR</p></td><td><p>Пуэрто-Рико</p></td></tr>
+<tr><td><p>PRK</p></td><td><p>KP</p></td><td><p>Северная Корея</p></td></tr>
+<tr><td><p>PRT</p></td><td><p>PT</p></td><td><p>Португалия</p></td></tr>
+<tr><td><p>PRY</p></td><td><p>PY</p></td><td><p>Парагвай</p></td></tr>
+<tr><td><p>PSE</p></td><td><p>PS</p></td><td><p>Палестинская территория, оккупированная</p></td></tr>
+<tr><td><p>PYF</p></td><td><p>PF</p></td><td><p>Французская Полинезия</p></td></tr>
+<tr><td><p>QAT</p></td><td><p>QA</p></td><td><p>Катар</p></td></tr>
+<tr><td><p>REU</p></td><td><p>RE</p></td><td><p>Реюньон</p></td></tr>
+<tr><td><p>ROU</p></td><td><p>RO</p></td><td><p>Румыния</p></td></tr>
+<tr><td><p>RUS</p></td><td><p>RU</p></td><td><p>Россия</p></td></tr>
+<tr><td><p>RWA</p></td><td><p>RW</p></td><td><p>Руанда</p></td></tr>
+<tr><td><p>SAU</p></td><td><p>SA</p></td><td><p>Саудовская Аравия</p></td></tr>
+<tr><td><p>SDN</p></td><td><p>SD</p></td><td><p>Судан</p></td></tr>
+<tr><td><p>SEN</p></td><td><p>SN</p></td><td><p>Сенегал</p></td></tr>
+<tr><td><p>SGP</p></td><td><p>SG</p></td><td><p>Сингапур</p></td></tr>
+<tr><td><p>SGS</p></td><td><p>GS</p></td><td><p>Южная Джорджия и Южные Сандвичевы острова</p></td></tr>
+<tr><td><p>SHN</p></td><td><p>SH</p></td><td><p>Святая Елена</p></td></tr>
+<tr><td><p>SJM</p></td><td><p>SJ</p></td><td><p>Шпицберген и Ян Майен</p></td></tr>
+<tr><td><p>SLB</p></td><td><p>SB</p></td><td><p>Соломоновы острова</p></td></tr>
+<tr><td><p>SLE</p></td><td><p>SL</p></td><td><p>Сьерра-Леоне</p></td></tr>
+<tr><td><p>SLV</p></td><td><p>SV</p></td><td><p>Эль-Сальвадор</p></td></tr>
+<tr><td><p>SMR</p></td><td><p>SM</p></td><td><p>Сан-Марино</p></td></tr>
+<tr><td><p>SOM</p></td><td><p>SO</p></td><td><p>Сомали</p></td></tr>
+<tr><td><p>SPM</p></td><td><p>PM</p></td><td><p>Сен-Пьер и Микелон</p></td></tr>
+<tr><td><p>SRB</p></td><td><p>RS</p></td><td><p>Сербия</p></td></tr>
+<tr><td><p>STP</p></td><td><p>ST</p></td><td><p>Сан-Томе и Принсипи</p></td></tr>
+<tr><td><p>SUR</p></td><td><p>SR</p></td><td><p>Суринам</p></td></tr>
+<tr><td><p>SVK</p></td><td><p>SK</p></td><td><p>Словакия</p></td></tr>
+<tr><td><p>SVN</p></td><td><p>SI</p></td><td><p>Словения</p></td></tr>
+<tr><td><p>SWE</p></td><td><p>SE</p></td><td><p>Швеция</p></td></tr>
+<tr><td><p>SWZ</p></td><td><p>SZ</p></td><td><p>Свазиленд</p></td></tr>
+<tr><td><p>SYC</p></td><td><p>SC</p></td><td><p>Сейшелы</p></td></tr>
+<tr><td><p>SYR</p></td><td><p>SY</p></td><td><p>Сирийская Арабская Республика</p></td></tr>
+<tr><td><p>TCA</p></td><td><p>TC</p></td><td><p>Острова Теркс и Кайкос</p></td></tr>
+<tr><td><p>TCD</p></td><td><p>TD</p></td><td><p>Чад</p></td></tr>
+<tr><td><p>TGO</p></td><td><p>TG</p></td><td><p>Того</p></td></tr>
+<tr><td><p>THA</p></td><td><p>TH</p></td><td><p>Таиланд</p></td></tr>
+<tr><td><p>TJK</p></td><td><p>TJ</p></td><td><p>Таджикистан</p></td></tr>
+<tr><td><p>TKL</p></td><td><p>TK</p></td><td><p>Токелау</p></td></tr>
+<tr><td><p>TKM</p></td><td><p>TM</p></td><td><p>Туркмения</p></td></tr>
+<tr><td><p>TLS</p></td><td><p>TL</p></td><td><p>Тимор-Лесте</p></td></tr>
+<tr><td><p>TON</p></td><td><p>TO</p></td><td><p>Тонга</p></td></tr>
+<tr><td><p>TTO</p></td><td><p>TT</p></td><td><p>Тринидад и Тобаго</p></td></tr>
+<tr><td><p>TUN</p></td><td><p>TN</p></td><td><p>Тунис</p></td></tr>
+<tr><td><p>TUR</p></td><td><p>TR</p></td><td><p>Турция</p></td></tr>
+<tr><td><p>TUV</p></td><td><p>TV</p></td><td><p>Тувалу</p></td></tr>
+<tr><td><p>TWN</p></td><td><p>TW</p></td><td><p>Тайвань (Китай)</p></td></tr>
+<tr><td><p>TZA</p></td><td><p>TZ</p></td><td><p>Танзания, Объединенная Республика</p></td></tr>
+<tr><td><p>UGA</p></td><td><p>UG</p></td><td><p>Уганда</p></td></tr>
+<tr><td><p>UKR</p></td><td><p>UA</p></td><td><p>Украина</p></td></tr>
+<tr><td><p>UMI</p></td><td><p>UM</p></td><td><p>Малые Тихоокеанские отдаленные острова Соединенных Штатов</p></td></tr>
+<tr><td><p>URY</p></td><td><p>UY</p></td><td><p>Уругвай</p></td></tr>
+<tr><td><p>USA</p></td><td><p>US</p></td><td><p>Соединенные Штаты</p></td></tr>
+<tr><td><p>UZB</p></td><td><p>UZ</p></td><td><p>Узбекистан</p></td></tr>
+<tr><td><p>VAT</p></td><td><p>VA</p></td><td><p>Папский Престол (Государство-город Ватикан)</p></td></tr>
+<tr><td><p>VCT</p></td><td><p>VC</p></td><td><p>Сент-Винсент и Гренадины</p></td></tr>
+<tr><td><p>VEN</p></td><td><p>VE</p></td><td><p>Венесуэла</p></td></tr>
+<tr><td><p>VGB</p></td><td><p>VG</p></td><td><p>Виргинские острова, Британские</p></td></tr>
+<tr><td><p>VIR</p></td><td><p>VI</p></td><td><p>Виргинские острова, США</p></td></tr>
+<tr><td><p>VNM</p></td><td><p>VN</p></td><td><p>Вьетнам</p></td></tr>
+<tr><td><p>VUT</p></td><td><p>VU</p></td><td><p>Вануату</p></td></tr>
+<tr><td><p>WLF</p></td><td><p>WF</p></td><td><p>Уоллис и Футуна</p></td></tr>
+<tr><td><p>WSM</p></td><td><p>WS</p></td><td><p>Самоа</p></td></tr>
+<tr><td><p>YEM</p></td><td><p>YE</p></td><td><p>Йемен</p></td></tr>
+<tr><td><p>ZAF</p></td><td><p>ZA</p></td><td><p>Южная Африка</p></td></tr>
+<tr><td><p>ZMB</p></td><td><p>ZM</p></td><td><p>Замбия</p></td></tr>
+<tr><td><p>ZWE</p></td><td><p>ZW</p></td><td><p>Зимбабве</p></td></tr>

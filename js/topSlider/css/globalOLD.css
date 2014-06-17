@@ -1,0 +1,185 @@
+#slides {
+	position:absolute;
+	top:15px;
+	left:0px;
+	z-index:100;
+}
+
+/*
+	Slides container
+	Important:
+	Set the width of your slides container
+	Set to display none, prevents content flash
+*/
+
+#slides .slides_container {
+	width:734px;
+	overflow:hidden;
+	position:relative;
+	display:none;
+}
+
+/*
+	Each slide
+	Important:
+	Set the width of your slides
+	If height not specified height will be set by the slide content
+	Set to display block
+*/
+
+#slides .slides_container div.slide {
+	width:734px;
+	height:257px;
+	display:block;
+}
+
+
+/*
+	Next/prev buttons
+*/
+
+#slides .next,#slides .prev {
+	position:absolute;
+	top:107px;
+	left:18px;
+	width:21px;
+	height:31px;
+	display:block;
+	z-index:101;
+    outline: none;
+}
+
+#slides .next {
+	left:688px;
+}
+
+/*
+	Pagination
+*/
+
+#slides .pagination {
+	margin:14px auto 0px auto;
+	width:100px;
+    text-align: center;
+}
+
+#slides .pagination li {
+	float:left;
+	margin:0px 4px 0px 4px;
+	list-style:none;
+}
+
+#slides .pagination li a {
+	display:block;
+	width:10px;
+	height:0;
+	padding-top:12px;
+	background-image:url(../img/pagination.png);
+	background-position:0 0;
+	float:left;
+	overflow:hidden;
+}
+
+#slides .pagination li.current a {
+	background-position:0 -12px;
+}
+
+/*
+	Caption
+*/
+
+#slides .caption {
+    font-family: tahoma;
+	z-index:500;
+	position:absolute;
+	bottom:-35px;
+	left:0;
+	height:60px;
+	padding:5px 20px 0 20px;
+	background:#000;
+	background:rgba(0,0,0,.5);
+	width:734px;
+	font-size:1.2em;
+	line-height:1.22;
+	color:#fff;
+	border-top:0px solid #000;
+	text-shadow:none;
+}
+
+/**********************************************************************/
+/*********************** SECOND SLIDER ********************************/
+/**********************************************************************/
+/*#slidesSecond {*/
+    /*position: absolute;*/
+/*}*/
+#slidesSecond .slides_container {
+    width:370px;
+    height: 58px;
+    overflow:hidden;
+    position:relative;
+    display:block;
+    /*border: 1px solid #000;*/
+    margin-left: 16px;
+    padding-left: 0px;
+    margin-top: 5px;
+}
+
+#slidesSecond .slider_container div.slide {
+    width:88px;
+    height:58px;
+    display:block;
+}
+
+#slidesSecond .item {
+    float:left;
+    width:88px;
+    height:58px;
+    margin:0px 1px 0px 2px;
+    background:#efefef;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.8);
+}
+
+#slidesSecond .item img{
+    width:88px;
+    height:58px;
+    /*border: 1px solid #ecedef;*/
+}
+
+#slidesSecond .item .caption {
+    width:218px;
+    height:75px;
+    padding:7px 7px 7px 7px;
+    background:#000;
+    background:rgba(0,0,0,.4);
+    top:98px;
+    position: relative;
+}
+
+#slidesSecond .item .caption a{
+    font-family: tahoma;
+    font-size: 12px;
+    color: #fff;
+    line-height: 15px;
+    letter-spacing: 1px;
+}
+
+#slidesSecond .prev {
+    position:absolute;
+    width:15px;
+    height:58px;
+    display:block;
+    z-index:101;
+    outline: none;
+    margin-top: -58px;
+}
+
+#slidesSecond .next{
+    position:absolute;
+    width:15px;
+    height:58px;
+    display:block;
+    z-index:101;
+    outline: none;
+    margin-top: -58px;
+    margin-left: 382px;
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<configuration>
+    <status>
+        <not_active>Not active</not_active>
+        <active>Active</active>
+        <blocked>Blocked</blocked>
+    </status>
+</configuration>

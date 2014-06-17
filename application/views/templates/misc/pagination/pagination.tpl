@@ -1,0 +1,1 @@
+<a href="listings/page%s.html" title="%s">%s</a>

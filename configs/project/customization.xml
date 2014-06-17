@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<configuration>
+    <project>
+        <globals>
+            <title>WorkDig - Find yourself</title>
+        </globals>
+        <youtube>
+            <dev_id>wX6aTG6gBpE</dev_id>
+        </youtube>
+    </project>
+</configuration>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<configuration>
+
+    <email>
+    	<email_generator>Avabi mail machine</email_generator>
+        <from_name>avabi.ru</from_name>
+        <from_email>support@avabi.ru</from_email>
+    </email>
+    
+    <order_submitted>
+        <email_generator>Avabi mail machine</email_generator>
+        <email_title>Your order has been submitted</email_title>
+        <from_name>avabi.ru</from_name>
+        <from_email>support@avabi.ru</from_email>
+    </order_submitted>
+    
+    <general>
+        <!-- General email data -->
+        <email_generator>Avabi mail machine</email_generator>
+    </general>
+    
+    <registration>
+        <reg_email_generator>Avabi mail machine</reg_email_generator>
+        <!-- Registration email data -->
+        <reg_email_title>Welcome to Avabi.</reg_email_title>
+        <reg_from_name>Avabi registration</reg_from_name>
+        <reg_from_email>register@avabi.ru</reg_from_email>
+    </registration>
+    
+    <lost_password>
+        <email_generator>Avabi mail machine</email_generator>
+        <email_title>Password Retrival for Avabi profile</email_title>
+        <password_changed_email_title>Password Retrival for Workdig profile</password_changed_email_title>
+        <from_name>Avabi Password Change</from_name>
+        <from_email>support@avabi.ru</from_email>
+    </lost_password>
+    
+</configuration>

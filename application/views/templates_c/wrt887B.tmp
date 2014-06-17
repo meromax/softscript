@@ -1,0 +1,58 @@
+<?php /* Smarty version 2.6.18, created on 2013-04-23 19:04:59
+         compiled from topNavigation.tpl */ ?>
+<div class="itemBox">
+    <div class="spliter"></div>
+    <div class="item">
+        <a href="/" <?php if ($this->_tpl_vars['menuActive'] == 'index'): ?>class="active"<?php endif; ?>>Главная</a>
+    </div>
+    <div class="spliter"></div>
+</div>
+
+<div class="itemBox">
+    <div class="item">
+        <a href="/about-company.html" <?php if ($this->_tpl_vars['menuActive'] == 'about-company'): ?>class="active"<?php endif; ?>>О компании</a>
+    </div>
+    <div class="spliter"></div>
+</div>
+
+<div class="itemBox">
+    <div class="item">
+        <a href="/coming-soon.html">Каталог</a>
+    </div>
+    <div class="spliter"></div>
+</div>
+
+<div class="itemBox">
+    <div class="item">
+        <a href="/wholesalers.html" <?php if ($this->_tpl_vars['menuActive'] == 'wholesalers'): ?>class="active"<?php endif; ?>>Оптовикам</a>
+    </div>
+    <div class="spliter"></div>
+</div>
+
+<div class="itemBox">
+    <div class="item">
+        <a href="/coming-soon.html">Акции</a>
+    </div>
+    <div class="spliter"></div>
+</div>
+
+<div class="itemBox">
+    <div class="item">
+        <a href="/delivery.html" <?php if ($this->_tpl_vars['menuActive'] == 'delivery'): ?>class="active"<?php endif; ?>>Доставка</a>
+    </div>
+    <div class="spliter"></div>
+</div>
+
+<div class="itemBox">
+    <div class="item">
+        <a href="/coming-soon.html">Отзывы</a>
+    </div>
+    <div class="spliter"></div>
+</div>
+
+<div class="itemBox">
+    <div class="item">
+        <a href="/contacts.html" <?php if ($this->_tpl_vars['menuActive'] == 'contacts'): ?>class="active"<?php endif; ?>>Контакты</a>
+    </div>
+    <div class="spliter"></div>
+</div>

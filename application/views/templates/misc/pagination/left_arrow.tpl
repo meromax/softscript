@@ -1,0 +1,1 @@
+<a href="listings/page%s.html" title="Prev"><img src="images/left.gif" alt="Left" onmouseout=" this.src='images/left.gif'" onmouseover="this.src='images/left_over.gif'" /></a>

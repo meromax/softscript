@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<configuration>
+    <errors>
+        <!-- Registration Step 1 & Profile edit errors -->
+        <invalid_username>Username must be minimum 4 characters, maximum 15 and only alphabetic and digit characters</invalid_username>
+        <username_not_available>This email is already taken!</username_not_available>
+        <invalid_email>Email is not valid</invalid_email>
+        <email_isregistered>This email is already used by another user</email_isregistered>
+        <invalid_password>Password must be at least 6 characters long and only alphabetic and digit characters</invalid_password>
+        <invalid_spamcode>Please provide correct code</invalid_spamcode>
+        <passwords_mismatch>Passwords mismatch</passwords_mismatch>
+        <month_notselected>Month is not selected</month_notselected>
+        <day_notselected>Day is not selected</day_notselected>
+        <year_notselected>Year is not selected</year_notselected>
+        <terms_notaccepted>You must agree with our Terms and Conditions</terms_notaccepted>
+        <!-- Registration Step 2 & Profile edit errors -->
+        <invalid_firstname>Firstname must be minimum 2 characters, maximum 20 and only alphabetic characters</invalid_firstname>
+        <invalid_lastname>Lastname must be minimum 2 characters, maximum 20 and only alphabetic characters</invalid_lastname>
+        <invalid_zip>Zip code is invalid</invalid_zip>
+        <invalid_company_name>Company name must be minimum 2 characters, maximum 30 and only alphabetic and digit characters</invalid_company_name>
+        <invalid_phone>Phone number must be in right format, starting with + or 8 and only digit characters</invalid_phone>
+        <!-- Others -->
+        <invalid_cell_phone>Cell phone number must be in right format, starting with + or 8 and only digit characters</invalid_cell_phone>
+        <invalid_icq>ICQ number must be in right format, minimum 5 characters, maximum 13 and only digit characters</invalid_icq>
+        <!-- Error block messages -->
+        <error_block_title>Errors have occured:</error_block_title>
+        <!-- Login block messages -->
+        <login_username_not_found>Введите правильный E-mail</login_username_not_found>
+        <login_invalid_password>Введите правильный пароль</login_invalid_password>
+        <password_recovery_email_incorrect>Введите правильный E-mail</password_recovery_email_incorrect>
+        <!-- Adding Listing messages -->
+        <empty_youtube_url>YouTube link must be not empty</empty_youtube_url>
+        <bad_format_youtube_url>YouTube link is incorrect</bad_format_youtube_url>
+        <already_posted_youtube_url>You have already posted this YouTube video</already_posted_youtube_url>
+        <empty_youtube_title>YouTube video title must be not empty</empty_youtube_title>
+        <empty_youtube_description>YouTube video description must be not empty</empty_youtube_description>
+        <empty_youtube_tags>YouTube video tags must have minimum one tag</empty_youtube_tags>
+        <restricted_youtube_tags>YouTube video tags contains restricted characters</restricted_youtube_tags>
+        <empty_youtube_category>Category is not selected</empty_youtube_category>
+        <empty_youtube_industry>Industry is not selected</empty_youtube_industry>
+        <empty_youtube_type>Video type is not selected</empty_youtube_type>
+        <!-- Adding Listing messages -->
+        <empty_listing_title>Listing title must be not empty</empty_listing_title>
+        <empty_listing_description>Listing description must be not empty</empty_listing_description>
+        <empty_listing_tags>Listing tags must have minimum one tag</empty_listing_tags>
+        <restricted_listing_tags>Listing tags contains restricted characters</restricted_listing_tags>
+        <bad_date_format>Date format must like yyyy/mm/dd</bad_date_format>
+        <empty_date>Expiration date must be not empty</empty_date>
+        <empty_listing_category>Category is not selected</empty_listing_category>
+        <empty_listing_industry>Industry is not selected</empty_listing_industry>
+        <empty_listing_type>Listing type is not selected</empty_listing_type>
+        <!-- Sendig email invitation -->
+        <send_mail_error>Send mail failed!</send_mail_error>
+        <no_emails_to_send>Please enter at least one email address to send Invitation to!</no_emails_to_send>
+        <timelimit_invitation>The system doesn't allow users to send invitation less then every 15 minutes. Please wait for this period of time before sending another pack of invitations!</timelimit_invitation>
+        <!-- Adding Listing comments -->
+        <not_authorized_error>You are no authorized to adding comments!</not_authorized_error>
+        <char_poor_comment_error>Your comment must contain not less than 5 characters!</char_poor_comment_error>
+    </errors>
+</configuration>

@@ -1,0 +1,9 @@
+.dealsCities{
+    height: 200px;
+    width: 100%;
+    background: url('/images/foot-light.jpg') repeat;
+    display: none;
+    border-bottom: 2px solid #8ea1a6;
+    /*margin-left: -20px;*/
+    /*margin-right: -20px;*/
+}

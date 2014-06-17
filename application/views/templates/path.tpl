@@ -1,0 +1,1 @@
+<div style="padding: 0px 0px 0px 0px;" class="news_items2">{$path}</div>
